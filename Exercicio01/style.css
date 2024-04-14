@@ -1,0 +1,80 @@
+
+header{
+    display: flex;
+    text-align: center;
+    position: absolute; left: 25%;
+}
+header ul{
+    background-color: rgb(158, 207, 191);
+    list-style-type: none;
+
+}
+header ul li{
+    display: inline;
+}
+header ul li a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    text-align: center;
+    position: absolute; left: 25%;
+}
+nav h1{
+    font-size: 12px;
+}
+nav h1 a{
+    text-decoration: none;
+}
+nav h2{
+    position: absolute;left: 0%;
+}
+main{
+    text-align: left;
+    position: fixed; left: 22%;
+}
+main h1{
+    text-align: left;
+    position: fixed; left: 30%; top: 22%;
+    font-size: 13px;
+}
+main form{
+    position: fixed; left: 30%;
+}
+main input.submit{
+    position: fixed; left: 48%;
+    background-color: darkolivegreen;
+    color: #fff;
+} 
+main #sc1 ul li{
+    display: inline;
+    list-style: none;
+    font-size: 13px;
+    position: relative; left: 40%;
+}
+main h3{
+    background-color: rgb(158, 207, 191);
+    position: relative; left: 5%;
+    font-size: 14px;
+}
+main #sc2{
+    display: flex;
+    font-size: 13px;
+}
+main #ul1 li{
+    list-style: none;
+}
+main #ul2 li{
+    list-style: none;
+}
+main #ul3 li{
+    list-style: none;
+}
+main #ul4 li{
+    list-style: none;
+}
+footer{
+    position: absolute; left: 34%;
+    text-align: center;
+    font-size: 5px;
+}
